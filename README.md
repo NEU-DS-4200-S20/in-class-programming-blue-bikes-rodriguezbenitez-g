@@ -6,9 +6,7 @@ In this activity, you are going to create a spatial visualization the easy way. 
 We will be visualizing publicly available data from BlueBikes, the bike share program around the Boston area.  To prepare for this assignment, we downloaded [publicly available data from BlueBikes](https://www.bluebikes.com/system-data), including all bike rentals in the month of March, 2017.  We then grouped by the station names, and got counts of the incoming and outgoing rentals at each location. 
 
 When you are finished with the in-class assignment, please publish to github pages and post the link below:
-
-GITHUB_PAGES_LINK
-
+https://neu-ds-4200-s20.github.io/in-class-programming-blue-bikes-rodriguezbenitez-g/
 ## Setup
 1. Clone this repository to your local machine. E.g., in your terminal / command prompt `CD` to where you want this the folder for this activity to be. Then run `git clone <YOUR_REPO_URL>`
 
